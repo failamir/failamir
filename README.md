@@ -27,7 +27,8 @@ I love creating scalable, efficient, and maintainable web applications. I'm cons
 
 ## 💼 Work Experience
 
-- 🧑‍💻 CTO & Web Developer — [Kukode.in](https://kukodein.tech/) (2017–2025)  
+- 🧑‍💻 Founding Engineer on [TreonStudio](https://TreonStudio.com/) (2025-now)  
+- 🧑‍💻 CTO & Web Developer — [Kukode.in](https://kukode.com/) (2017–2024)  
 - 🛠️ Backend Developer — Kardusinfo (2022–present)  
 - 🌐 Full Stack Developer — Dinas Lingkungan Hidup Morowali, Nata Alam Raya, CIPTA WIRA TIRTA, Pemprov Sulteng, BPKAD Banjarnegara  
 - 💡 Senior Web Developer — Munaqadh, UKI JASHTIS, Partai Ummat  
