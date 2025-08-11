@@ -1,7 +1,7 @@
 # Hi there, I'm Fail Amir Abdullah 👋
 
 🌍 Sleman, Daerah Istimewa Yogyakarta, Indonesia  
-💻 Backend Developer | Laravel Enthusiast | Full Stack Capable  
+💻 Full-Stack Developer | Bitcoin Enthusiast | Full Stack Capable  
 🎓 Master's in Digital Transformation Intelligent – Universitas AMIKOM Yogyakarta  
 
 ---
