@@ -45,7 +45,7 @@ I love creating scalable, efficient, and maintainable web applications. I'm cons
 
 ## 📫 Let's Connect
 
-- 📧 Email: [failamir@icloud.com](mailto:failamir@icloud.com)  
+- 📧 Email: [ifailamir@gmail.com](mailto:ifailamir@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/fail-amir-abdullah](https://www.linkedin.com/in/fail-amir-abdullah)  
 - 🌐 Website: [kukodein.tech](https://kukodein.tech/)  
 
