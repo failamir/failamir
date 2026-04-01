@@ -16,7 +16,7 @@ I love creating scalable, efficient, and maintainable web applications. I'm cons
 
 ## 🛠️ Tech Stack
 
-- **Backend**: PHP, Laravel, Node.js  
+- **Backend**: PHP, Laravel, Node.js, Golang, Java, Rust  
 - **Frontend**: Vue.js, Bootstrap, Tailwind CSS  
 - **Database**: PostgreSQL, MySQL  
 - **Mobile**: Flutter  
